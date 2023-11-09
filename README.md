@@ -43,8 +43,6 @@ Hi! I am HumehrSanatkar@github
 
 <p>
     <a href="#"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-%23FF2D20?logo=laravel&logoColor=white"></a>
-    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
-    <a href="#"><img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
     <a href="#"><img alt="Electron" src="https://img.shields.io/badge/ElectronJS-%2347848F?logo=electron&logoColor=white"></a>
 
 </p>
