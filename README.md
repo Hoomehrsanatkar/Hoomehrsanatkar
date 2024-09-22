@@ -19,9 +19,8 @@ Hi! I am HumehrSanatkar@github
 -------------------------
 💻 I am a self taught Full Stack Developer
 📚 Computer Engineering student
-🌟 Main languages: PHP, JavaScript
+🌟 Main languages: PHP, JavaScript, C++
 🔭 Working on Full Stack development
-📝 I have a strong interest in Network and Artificial Intelligence (AI)
 🎵 I like metal, electro, techno, jazz and rock music
 ```
 <hr>
