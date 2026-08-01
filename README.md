@@ -71,9 +71,6 @@ Hi! I am HumehrSanatkar@github
 </p>
 
 
-![snake gif](https://github.com/debasishray16/debasishray16/blob/output/github-contribution-grid-snake-dark.svg)
-
-
 
 ## GitHub Stats
 
